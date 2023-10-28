@@ -1,0 +1,12 @@
+"Test1K&Mblock" Blocks mouse and keyboard input if it is programmed correctly.
+"Test2K&Mblock+crash" Blocks mouse and keyboard input AND forks system... if programmed correctly
+"Test3crash" forks system (crashes it)
+"lightspeedremover" removes lightspeed filter agent from computers, allowing you to bypass filters and not have teachers spying on you!
+
+All 4 systems are currently in testing
+
+DO NOT...
+
+Distribute this software (or do, i cant stop you)
+Use on school computers / work computers (or do, i cant stop you)
+
